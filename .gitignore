@@ -1,0 +1,6 @@
+.
+.vs
+obj/
+bin/Debug/net6.0/HCDropEverything.deps.json
+bin/Debug/net6.0/HCDropEverything.pdb
+bin/Debug/net6.0/HttpServer.dll

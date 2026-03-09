@@ -15,4 +15,4 @@
 
 ***
  
-[Download HCDropEverything.dll](https://github.com/onusai/tshock-hc-drop-everything/raw/main/bin/Debug/net6.0/HCDropEverything.dll)
+[Download HCDropEverything.dll](https://github.com/onusai/tshock-hc-drop-everything/raw/main/bin/Debug/net9.0/HCDropEverything.dll)
